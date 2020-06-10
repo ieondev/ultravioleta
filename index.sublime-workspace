@@ -1,0 +1,230 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"hour_",
+				"hour_pdt"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ay",
+				"ayu: Activate theme"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Intal ",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 165.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Luis/Documents/Startpages/robbyjm/robbyjm/index.html",
+		"/C/Users/Luis/Documents/Python/RenneBot_Clock_0_2.py",
+		"/C/Users/Luis/Documents/discord-clock-0.1.py",
+		"/C/Users/Luis/Documents/test-clock.py",
+		"/C/Users/Luis/Documents/discord-clock.py",
+		"/C/Users/Luis/Documents/import discord.py",
+		"/C/Users/Luis/Documents/Startpages/robbyjm/robbyjm/style.css",
+		"/D/Program Files (x86)/Falcom/zero_w8/ED_ZERO/savefile.arc",
+		"/D/Program Files (x86)/Falcom/zero_w8/ED_ZERO/data.arc",
+		"/C/Users/Luis/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.7_qbz5n2kfra8p0/LocalCache/local-packages/Python37/site-packages/sklearn/utils/fixes.py",
+		"/C/Users/Luis/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.7_qbz5n2kfra8p0/LocalCache/local-packages/Python37/site-packages/sklearn/base.py",
+		"/C/Users/Luis/AppData/Local/Packages/PythonSoftwareFoundation.Python.3.7_qbz5n2kfra8p0/LocalCache/local-packages/Python37/site-packages/sklearn/__init__.py",
+		"/C/Users/Luis/Documents/GitHub/intermediate-python-course/dice_roller.py",
+		"/C/Users/Luis/Documents/Startpages/Categories-Anon-Dark/index.html",
+		"/C/Users/Luis/Documents/Startpages/Categories-Anon-Dark/style.css",
+		"/C/Users/Luis/Documents/Startpages/Categories-Anon/index.html",
+		"/C/Users/Luis/Documents/Startpages/minimal/script.js",
+		"/C/Users/Luis/Documents/Startpages/minimal/index.html",
+		"/C/Users/Luis/Downloads/e-hentai-downloader.user.js",
+		"/C/Users/Luis/Documents/Startpages/minimal/styles.css",
+		"/C/Users/Luis/Documents/Startpages/homepage-gh-pages/style.css",
+		"/C/Users/Luis/Documents/Startpages/homepage-gh-pages/index.html"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\"",
+			"tc_nzt",
+			"tc_jst",
+			"tc_est",
+			"tc_pdt",
+			"hour3",
+			"hour2",
+			"hour1",
+			"tc_3",
+			"tc_2",
+			"tc_1",
+			"color",
+			"0px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"sm_nzt",
+			"sm_jst",
+			"sm_est",
+			"sm_pdt",
+			"hour_nzt",
+			"hour_est",
+			"hour_pdt",
+			"tc_nzt",
+			"tc_est",
+			"tc_pdt"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}
