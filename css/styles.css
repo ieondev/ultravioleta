@@ -97,12 +97,19 @@ footer {
   margin-top: 5rem;
 }
 
+li {
+  text-align: left!important;
+}
+
 hr {
   margin: 1rem 0;
   color: inherit;
   background-color: currentColor;
   border: 0;
   opacity: 0.25;
+  height: 1px;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
 
 hr:not([size]) {
@@ -11348,4 +11355,14 @@ textarea.form-control-lg {
   background: none!important;
   height: 350px;
   width: 100%;
+}
+
+.btn {
+  margin-top: 1rem;
+  font-weight: lighter;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.btn:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
 }
